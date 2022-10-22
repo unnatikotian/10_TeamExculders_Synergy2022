@@ -1,5 +1,5 @@
-# 2nd Year Project
-# Event Management Systems
+# 3rd Year - Sem 5 Project
+# Event Management System for Crescendo
 
 <p>
 This project is a web app for organizing events. Built with PHP, MySQL, HTML, and CSS using Bootstrap Framework.
